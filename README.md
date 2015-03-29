@@ -1,2 +1,15 @@
 # about-me
-Stuff About Me
+Michael D. Mabin
+
+* d3vvnull@gmail.com
+
+## Background
+
+## Education
+
+## Core Competencies
+
+## Experience
+
+
+
